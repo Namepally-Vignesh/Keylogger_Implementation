@@ -1,0 +1,22 @@
+2025-07-05 22:34:58,761: Key pressed: t
+2025-07-05 22:34:58,904: Key pressed: h
+2025-07-05 22:34:59,134: Key pressed: i
+2025-07-05 22:34:59,247: Key pressed: s
+2025-07-05 22:34:59,428: Key pressed: [SPACE]
+2025-07-05 22:34:59,785: Key pressed: i
+2025-07-05 22:34:59,880: Key pressed: s
+2025-07-05 22:35:00,024: Key pressed: [SPACE]
+2025-07-05 22:35:00,771: Key pressed: k
+2025-07-05 22:35:00,913: Key pressed: e
+2025-07-05 22:35:01,389: Key pressed: y
+2025-07-05 22:35:02,197: Key pressed: [SPACE]
+2025-07-05 22:35:02,759: Key pressed: backspace
+2025-07-05 22:35:03,049: Key pressed: l
+2025-07-05 22:35:03,280: Key pressed: o
+2025-07-05 22:35:03,803: Key pressed: g
+2025-07-05 22:35:04,000: Key pressed: g
+2025-07-05 22:35:04,157: Key pressed: e
+2025-07-05 22:35:04,321: Key pressed: r
+2025-07-05 22:35:05,298: Key pressed: .
+2025-07-05 22:35:07,614: Key pressed: esc
+2025-07-05 22:35:07,711: Keylogger stopped by user (Escape key pressed).
